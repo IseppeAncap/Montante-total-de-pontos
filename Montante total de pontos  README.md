@@ -1,4 +1,8 @@
 
+Desafios-Python-CodeWars
+Codewars Profile image
+
+#Soluções Python CodeWars para estudos #link para meu perfil no codewares* https://www.codewars.com/users/janio%20libert%C3%A1rio
 8 kyu
 Montante total de pontos
 
